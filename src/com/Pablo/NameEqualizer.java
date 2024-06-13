@@ -2,7 +2,7 @@ package com.Pablo;
 /**
  * @author Pablo Espinoza
  * @date 02/13/2024
- * equalizing names in Java by Muaz
+ * equalizing names in Java
  */
 
 
